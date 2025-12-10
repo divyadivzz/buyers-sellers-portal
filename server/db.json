@@ -1,0 +1,695 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "Demo User",
+      "email": "demo@local",
+      "password": "demo"
+    }
+  ],
+  "listings": [
+    {
+      "id": "l1",
+      "title": "Vintage Camera",
+      "description": "A classic film camera in working condition.",
+      "price": 120,
+      "images": [
+        "https://images.unsplash.com/photo-1495121553079-4c61bcce1894?w=800"
+      ],
+      "category": "Photography",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l2",
+      "title": "Nike Air Max 97",
+      "description": "Size 10, Gently Used. Perfect condition, barely worn.",
+      "price": 85,
+      "images": [
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400"
+      ],
+      "category": "Fashion",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l3",
+      "title": "Vintage Ceramic Vase",
+      "description": "Handmade ceramic vase from 1980s. Beautiful floral pattern.",
+      "price": 30,
+      "images": [
+        "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?w=400"
+      ],
+      "category": "Home Decor",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l4",
+      "title": "Espresso Machine",
+      "description": "Like new condition, comes with original box and accessories.",
+      "price": 120,
+      "images": [
+        "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=400"
+      ],
+      "category": "Electronics",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l5",
+      "title": "Vintage Leather Jacket",
+      "description": "Classic brown leather jacket, size M. Timeless style.",
+      "price": 95,
+      "images": [
+        "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400"
+      ],
+      "category": "Fashion",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l6",
+      "title": "Wooden Bookshelf",
+      "description": "Sturdy wooden bookshelf with 5 shelves. Perfect for any room.",
+      "price": 75,
+      "images": [
+        "https://images.unsplash.com/photo-1508060793788-7d5f1c40c4ba?w=400"
+      ],
+      "category": "Home Decor",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l7",
+      "title": "Blue Denim Jeans",
+      "description": "Classic blue jeans, size 32. Comfortable and stylish.",
+      "price": 35,
+      "images": [
+        "https://images.unsplash.com/photo-1542272604-787c62d465d1?w=400"
+      ],
+      "category": "Fashion",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l8",
+      "title": "Vintage Typewriter",
+      "description": "Working condition typewriter from the 1970s. Great for collectors.",
+      "price": 150,
+      "images": [
+        "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=400"
+      ],
+      "category": "Electronics",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l9",
+      "title": "Houseplant - Monstera",
+      "description": "Large healthy Monstera plant. Great for indoor decoration.",
+      "price": 45,
+      "images": [
+        "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+      ],
+      "category": "Home Decor",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l10",
+      "title": "Vintage Vinyl Records",
+      "description": "Collection of 5 classic vinyl records from 1980s.",
+      "price": 60,
+      "images": [
+        "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=400"
+      ],
+      "category": "Electronics",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l11",
+      "title": "Leather Messenger Bag",
+      "description": "Brown leather messenger bag with multiple compartments.",
+      "price": 110,
+      "images": [
+        "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400"
+      ],
+      "category": "Fashion",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l12",
+      "title": "Glass Dining Table",
+      "description": "Modern glass dining table for 6. Excellent condition.",
+      "price": 200,
+      "images": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400"
+      ],
+      "category": "Home Decor",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l13",
+      "title": "Sneakers - White Canvas",
+      "description": "White canvas sneakers, size 9. Perfect for casual wear.",
+      "price": 40,
+      "images": [
+        "https://images.unsplash.com/photo-1560769132-5f58717da8d1?w=400"
+      ],
+      "category": "Fashion",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l14",
+      "title": "Vintage Desk Lamp",
+      "description": "Retro brass desk lamp from 1960s. Fully functional.",
+      "price": 65,
+      "images": [
+        "https://images.unsplash.com/photo-1565636192335-14c08d271d12?w=400"
+      ],
+      "category": "Home Decor",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l15",
+      "title": "Wool Sweater",
+      "description": "Cozy wool sweater in burgundy. Size M.",
+      "price": 50,
+      "images": [
+        "https://images.unsplash.com/photo-1517958808967-a94b519e9aba?w=400"
+      ],
+      "category": "Fashion",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l16",
+      "title": "Portable Bluetooth Speaker",
+      "description": "Waterproof Bluetooth speaker with great sound quality.",
+      "price": 55,
+      "images": [
+        "https://images.unsplash.com/photo-1589003077984-894e133814c9?w=400"
+      ],
+      "category": "Electronics",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l17",
+      "title": "Ceramic Dinner Set",
+      "description": "Set of 6 elegant ceramic dinner plates.",
+      "price": 70,
+      "images": [
+        "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=400"
+      ],
+      "category": "Home Decor",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l18",
+      "title": "Vintage Watch",
+      "description": "Classic wristwatch from 1980s. Needs battery.",
+      "price": 85,
+      "images": [
+        "https://images.unsplash.com/photo-1523293182086-7651a899d37f?w=400"
+      ],
+      "category": "Fashion",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l19",
+      "title": "Coffee Table",
+      "description": "Wooden coffee table with storage. Lightly used.",
+      "price": 95,
+      "images": [
+        "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400"
+      ],
+      "category": "Home Decor",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l20",
+      "title": "Digital Camera",
+      "description": "Canon compact digital camera. Great for travel.",
+      "price": 180,
+      "images": [
+        "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=400"
+      ],
+      "category": "Photography",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l21",
+      "title": "Flannel Shirt",
+      "description": "Red and black flannel shirt. Size L.",
+      "price": 32,
+      "images": [
+        "https://images.unsplash.com/photo-1578932750294-708782ae0914?w=400"
+      ],
+      "category": "Fashion",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l22",
+      "title": "Wall Clock",
+      "description": "Modern minimalist wall clock. Battery included.",
+      "price": 38,
+      "images": [
+        "https://images.unsplash.com/photo-1579783902614-e3fb5141b0cb?w=400"
+      ],
+      "category": "Home Decor",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l23",
+      "title": "Microwave Oven",
+      "description": "Compact microwave in good working condition.",
+      "price": 55,
+      "images": [
+        "https://images.unsplash.com/photo-1584568694244-14fbbc50bd94?w=400"
+      ],
+      "category": "Electronics",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l24",
+      "title": "Scarf Collection",
+      "description": "5 different designer scarves. Barely used.",
+      "price": 65,
+      "images": [
+        "https://images.unsplash.com/photo-1569702846914-96c305d2abe6?w=400"
+      ],
+      "category": "Fashion",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l25",
+      "title": "Picture Frames Set",
+      "description": "Set of 10 wooden picture frames. Various sizes.",
+      "price": 48,
+      "images": [
+        "https://images.unsplash.com/photo-1578500494198-246f612d03b3?w=400"
+      ],
+      "category": "Home Decor",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l26",
+      "title": "Vintage Sunglasses",
+      "description": "Ray-Ban style vintage sunglasses. UV protection.",
+      "price": 58,
+      "images": [
+        "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=400"
+      ],
+      "category": "Fashion",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l27",
+      "title": "Desk Organizer",
+      "description": "Wooden desk organizer with multiple compartments.",
+      "price": 42,
+      "images": [
+        "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=400"
+      ],
+      "category": "Home Decor",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l28",
+      "title": "USB Hub",
+      "description": "Multi-port USB hub. Works with all devices.",
+      "price": 28,
+      "images": [
+        "https://images.unsplash.com/photo-1625948515291-69613efd103f?w=400"
+      ],
+      "category": "Electronics",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l29",
+      "title": "Winter Coat",
+      "description": "Warm winter coat in black. Size M.",
+      "price": 120,
+      "images": [
+        "https://images.unsplash.com/photo-1539533057440-7814a9e141eb?w=400"
+      ],
+      "category": "Fashion",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l30",
+      "title": "Throw Pillows",
+      "description": "Set of 4 decorative throw pillows. Various colors.",
+      "price": 52,
+      "images": [
+        "https://images.unsplash.com/photo-1579656386798-3bab0814eef9?w=400"
+      ],
+      "category": "Home Decor",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l31",
+      "title": "Lens Cap Collection",
+      "description": "10 various camera lens caps.",
+      "price": 22,
+      "images": [
+        "https://images.unsplash.com/photo-1606986628025-35d57e735ae0?w=400"
+      ],
+      "category": "Photography",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l32",
+      "title": "Board Games Bundle",
+      "description": "Collection of 5 classic board games.",
+      "price": 75,
+      "images": [
+        "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?w=400"
+      ],
+      "category": "Electronics",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l33",
+      "title": "Yoga Mat",
+      "description": "Non-slip yoga mat. Purple color.",
+      "price": 35,
+      "images": [
+        "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=400"
+      ],
+      "category": "Home Decor",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l34",
+      "title": "Hiking Boots",
+      "description": "Waterproof hiking boots. Size 10.",
+      "price": 95,
+      "images": [
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400"
+      ],
+      "category": "Fashion",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l35",
+      "title": "Desk Lamp LED",
+      "description": "Adjustable LED desk lamp with touch control.",
+      "price": 48,
+      "images": [
+        "https://images.unsplash.com/photo-1565636192335-14c08d271d12?w=400"
+      ],
+      "category": "Electronics",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l36",
+      "title": "Bedding Set",
+      "description": "Queen size bedding set with 4 pieces.",
+      "price": 85,
+      "images": [
+        "https://images.unsplash.com/photo-1578500494198-246f612d03b3?w=400"
+      ],
+      "category": "Home Decor",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l37",
+      "title": "Vintage Belt",
+      "description": "Leather belt with vintage buckle.",
+      "price": 42,
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400"
+      ],
+      "category": "Fashion",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l38",
+      "title": "Phone Stand",
+      "description": "Adjustable metal phone stand for desk.",
+      "price": 25,
+      "images": [
+        "https://images.unsplash.com/photo-1605559424843-9e4c3ca4b7f1?w=400"
+      ],
+      "category": "Electronics",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l39",
+      "title": "Canvas Bag",
+      "description": "Durable canvas tote bag. Natural color.",
+      "price": 48,
+      "images": [
+        "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400"
+      ],
+      "category": "Fashion",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l40",
+      "title": "Desk Chair",
+      "description": "Ergonomic office chair. Lightly used.",
+      "price": 140,
+      "images": [
+        "https://images.unsplash.com/photo-1592078615290-033ee584e267?w=400"
+      ],
+      "category": "Home Decor",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l41",
+      "title": "Mouse Pad",
+      "description": "Large gaming mouse pad with rubber base.",
+      "price": 18,
+      "images": [
+        "https://images.unsplash.com/photo-1527814050087-3793815479db?w=400"
+      ],
+      "category": "Electronics",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l42",
+      "title": "Wool Hat",
+      "description": "Warm wool winter hat. Grey color.",
+      "price": 28,
+      "images": [
+        "https://images.unsplash.com/photo-1556623550-7eb63dfd57c1?w=400"
+      ],
+      "category": "Fashion",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l43",
+      "title": "Mirror Frame",
+      "description": "Decorative mirror with wooden frame.",
+      "price": 65,
+      "images": [
+        "https://images.unsplash.com/photo-1578500494198-246f612d03b3?w=400"
+      ],
+      "category": "Home Decor",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l44",
+      "title": "Keyboard",
+      "description": "Mechanical keyboard with RGB lighting.",
+      "price": 85,
+      "images": [
+        "https://images.unsplash.com/photo-1587829191301-39c67b60a122?w=400"
+      ],
+      "category": "Electronics",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l45",
+      "title": "Casual T-Shirt",
+      "description": "Cotton t-shirt. Available in multiple colors.",
+      "price": 18,
+      "images": [
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400"
+      ],
+      "category": "Fashion",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l46",
+      "title": "Curtain Rods",
+      "description": "Metal curtain rods. Set of 2.",
+      "price": 42,
+      "images": [
+        "https://images.unsplash.com/photo-1574181285208-e3e5e1be9cce?w=400"
+      ],
+      "category": "Home Decor",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l47",
+      "title": "USB-C Cable",
+      "description": "Heavy duty USB-C cable. 2 meters long.",
+      "price": 15,
+      "images": [
+        "https://images.unsplash.com/photo-1625948515291-69613efd103f?w=400"
+      ],
+      "category": "Electronics",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l48",
+      "title": "Vintage Gloves",
+      "description": "Leather gloves. Black color.",
+      "price": 35,
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400"
+      ],
+      "category": "Fashion",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l49",
+      "title": "Rug",
+      "description": "Handwoven wool rug. 5x7 feet.",
+      "price": 120,
+      "images": [
+        "https://images.unsplash.com/photo-1584622570921-d3db5bd57d69?w=400"
+      ],
+      "category": "Home Decor",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "l50",
+      "title": "Monitor Stand",
+      "description": "Adjustable monitor stand with storage.",
+      "price": 65,
+      "images": [
+        "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?w=400"
+      ],
+      "category": "Electronics",
+      "type": "thrift",
+      "ownerId": "u1"
+    },
+    {
+      "id": "w1",
+      "title": "Analog Photography 101",
+      "description": "Learn the basics of film photography, from loading film to developing prints.",
+      "price": 25,
+      "images": [
+        "https://images.unsplash.com/photo-1508185644026-3759baed1f69?w=400"
+      ],
+      "category": "Photography",
+      "type": "workshop",
+      "ownerId": "u1"
+    },
+    {
+      "id": "w2",
+      "title": "Advanced JavaScript Workshop",
+      "description": "Deep dive into modern JavaScript, async/await, promises, and more.",
+      "price": 45,
+      "images": [
+        "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400"
+      ],
+      "category": "Coding",
+      "type": "workshop",
+      "ownerId": "u1"
+    },
+    {
+      "id": "w3",
+      "title": "Pottery & Ceramics",
+      "description": "Hands-on pottery class. Create your own bowls and mugs.",
+      "price": 35,
+      "images": [
+        "https://images.unsplash.com/photo-1676125105159-517d135a6cc3?w=400"
+      ],
+      "category": "Crafts",
+      "type": "workshop",
+      "ownerId": "u1"
+    },
+    {
+      "id": "lmizixe7b",
+      "title": "Powerbank",
+      "description": "useful",
+      "price": 3,
+      "images": [
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400"
+      ],
+      "ownerId": "1"
+    },
+    {
+      "id": "lmizj87it",
+      "title": "Databricks",
+      "description": "This Databricks tutorials are designed to provide hands-on experience with the platform's capabilities, using interactive notebooks that support multiple programming languages (Python, SQL, Scala, and R). The primary goal is to help users leverage the \"lakehouse architecture,\" which combines the reliability of data warehouses with the scalability and flexibility of data lakes. ",
+      "price": 5,
+      "images": [
+        "data:image/png;base64,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"
+      ],
+      "ownerId": "1"
+    },
+    {
+      "id": "lmizj94t0",
+      "title": "Databricks",
+      "description": "This Databricks tutorials are designed to provide hands-on experience with the platform's capabilities, using interactive notebooks that support multiple programming languages (Python, SQL, Scala, and R). The primary goal is to help users leverage the \"lakehouse architecture,\" which combines the reliability of data warehouses with the scalability and flexibility of data lakes. ",
+      "price": 5,
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATYAAACjCAMAAAA3vsLfAAAAxlBMVEX///8AAAD/OSff39+QkJCJiYn/NiP/IAC9vb2fn5/u7u7/MRzb29v6+vr/NSJgYGCvr69zc3P/LhjT09P/fXT+5eP/KAtaWlr09PT/9vX/QC//KxPn5+fIyMiqqqr/ZVp+fn7/wLz/oJr/xsNJSUn/1NH/cGb/d27/hn7/VUj/tbD/6ej/8O//2NX/r6r/393/STo/Pz//lY7/aV7/pZ//wr7/VEcaGhopKSltbW0jIyP/X1P/j4f/mZL/RjYREREyMjJRT085yGswAAALf0lEQVR4nO2cC1viOhCGuRShCAKyQl0Kdr2s63V1jyuC7iL//0+dNtfJJC0X6yIm3/Ocs9A2JXk7SWYyqYWCk5OTk5OTk5OTk5OTk5OTk9OGdHKz6RpsoQ6OqtUv15uuxZbp8Ed1t1TarR5vuiJbpYfefqm0t1cqDXYuN12XrdHvr71Saad6dNHbif95PNt0fbZCP5+rO6VS7+tJoXC5O4iNrvr9atN1+vC6/lKN++Z+74F8a/6iQ9yv5oar9cH1h2L6ccgPXJ8nGAeD203W6oOLdcr/DuDBm8e40+70/p5sqlYfXGd3hM+dNgV8Kw3IFPFzE7X64Lr6TnrjntHhOE4cEth3nYgOX+ig9iftPHF/+UzhRHW7n7i31fOMYOrnEfVLvv27Wn1wndwRv/ZiQeh+8pd4wc8uwk9EzWhQWsKMbnsLjdISsUGrutygxYdA2wPVh+qKUySZcHsv71mnDy/ikO2t6JCdPSJ/2DLdXFD3dmX33+Y5gQWb+28INs9+Wef+XiVje2n/DQ2/Oq8OqjnWaCt0UI2p7b5haCdLStZhO0wGttL+1zXXNS7348nEQmyx00+Xvi/WWNc4+5uEFTtWYhNO/6ppvQMaVvy92LET28J1D2MZthZyXPiyaym22HL+y1hlM+lhQMKKxEItxpas6a6Q1mOpwGcyHlqNbYW0HkgFJrIcm8hXvWSm9XgqUIQVdmKDvZJGWgCJLo5WhhU2YrsuVY/gOgaJ62UHxDJ15HMLscXBFVpm+8Z2fhjc37NHPRV49X3fQneXxKQoE/XA0nrI/TWlArnH9w9q+qFEsCW98jc4KF1ZcMzkEt/SPntu3Z6aBNvuQMtEafkYUyrw5O9Sma7PqBjb/p/bqh6UsrQeZWICxMjuWJkwjbENjsVeU7UH8rTewTM1PUM/tnV3KsVGljPIRiwlKGXDmSEVuHKm65OJY+NBKfYuEpgaILb16NnerUcSm3lbW+Kq7Rg8Yss3ukFsYq/pCzStyz0F0BWNv96S6foESrCBUYtBUfaaKuOXHpLGYO+sm01jbHvKGJUZlKZ04z0ro4Q9NODvpAz46ZOGddiapp1Gxwb3l6+b7+ohqYXYRAJK2demv2qV4RDbaG2JUkInuNzxYMgJsvDr6GjPTmwpgbrMybAMtCHYT1ZObFzdZRLLQjCNwGEKQFLXX+SOcYuxiUVIw4i/u6ctZCrvJ1iNLW3JO4FpDkl5xGU5tlRvFoWk+N0rK7EdKktF2pt9sS71kFR5089GbNfVqhJHwbFel/G90u8WYouDKxRHoa0KUGQTIMqSnt3ZmPC7qoqdQ0IncGOMlGlzDYu4ev+iqh9KpuSeKShggNQYbI19cZ9GppetcAhq/Hsgtr96xaLLRxg8KRsFH9iSCJxg+Z5fC7OkQrcD02BPxrK7m5OSPtbxieM3vpNlMrkW1P3t9bSZVf1zF1aLObJKUEph4uRC4djgFNurM8M7a8lGQZRxYe8DWv16nyqSRkBEbi7UGHXd9wE/tY6zdymw5aV9219b1pQ52r+4P3WUKuZblDTfgrm37g9rpcjoyZp8YidVtwMUlK7w5y5slhqlG+N9J5MO5MZwtnXc/UHUpcT2fFzcGZffnFJFl3OzXotxMuoP3Vlj9ybANRQHpQte+XMy6szF7E5OTk5OTk5OTk5OTk5OTk5OTk5OTk5braBdq9Xa3Xe4c0juHK5SpF5bWJEuuWuwfrXyUaOYqPIOd26TO9dWKOHF14/r2ddE5K7lN9UsB1Fs3jvceWVsNVLgKfuiyhZiC4iWvPPK2FrFJZBsIbYmuXay5J1XxnZKsWUPb1uLrbPknVfG5lFs2Ul8h027/TQp0M6+yGHT5bc6izwQh20tOWxryWFbSxvE1h1Vosino4gBW9ePosqIDTJN9l+iOrm2RQ6D+a45JAUa4EjyP4itQX9RmySb/AZeCH4HnCdVrbTlvc3YeHXCtmxZvmp6syJTJdCx1SN+tug1uede49WVuucFwgk/NPbjrz75mDRTYhs98UsiGaL6vP1BJ/kwVJ4KVVfcOi7JSCFswZSeJvftnoqq502tpjS+hrH5yunuYmzK8WnZgC18hZegXyoXuvS4ji1oqb84CXRswRhQ88DFM2D7OShSq1IclZXGoJoWhwuwNe/R4TLGNiyjK+YKtpCf1rB1i5pqGBunVsfUiouCjbdRix8LxDbXq8rra8b2arwcYsNchZ1SbG1+B4xtmFkPiq3Jeiih1sAXL1hKWUFtcc9+p3MKfoJik2hanQlsb1xdf97vsxKtfiwynwrjHMcFIMKG8mMxqklHGnIEsAkhbKE4MW1N+jNZS4BNoVbo09LdsMzM7r6QkwJeEzq9NWXNCTb+vO6H5HRdUuReBPkiHRA+TvbpQBJ2UrBVaMOG/El0Eba+3x6FKrZXtWiY1MWXj7YMqIWgboD5ODfXhzVLtjvgtSPYTsFnIjEssRpgv42dlVGk6FkKNuktQDsQ2Pq8NwFsrOyTnHiD/oj8K7A1nxRq1DzpA08MYPQmUlDM2ODCT3MsUTUwNdlVzNhqmJocxyE2uCzOuCXmxrHJpwCwUUMaGxZDODZEjT1ibmG1HN+FGJE7z5RjgFUkLUGonYWtrz0FwaWhlWWi/TQqCGyv8pzE1pV3waowWIgae8Ljd0gy0GYi620JbE/CEICeMrDpxiQOSmxojZsCmRYEtqE8J7F5hgfCRLGN7rUfZ8br5w6Odkh02xrHRrvwGJXx07FRQz1FBSKEzU+rhK/9nsQ2x0SlFEcIPjIxVs7zzWtRLnharnNsDeMT7qZjE8AV1RA27HVO+HnazEirSoKN2rhxfILY1EcCHKC5kfh6CkStFPHGD40U6unY6FCJF2O7CBt2Oj1uSL5WXGKjfpqxFYq1KYNfAB3H+5Xys1laChvuUwuxYe9oRWzQLFbHhkYcJbzKy+AoNjwWBRxbV2HCpczrpk6KOeNOipd4qO/Y5dhgH5bYpguxdegY+Yoa44PYJi97K5oq0+XY6qZ6qGuNKrau0XorCBvuxK/cSrKwnWrn0P097jlps2044kHj3FR8DZ1CBFwRx8bmuHJGGTVPSr/hmXmMsCHrptabzJ9Z2CibyNQI7rdxtxBbe0GuAOYUy3sGe6JVJdg6ButhfqeCTTxFilTdPsIaA9xd1WZawmCzsA3T2y1jUraaYxrDOqln1lAoEQmBOHSoIKKaqcfIFxFmjHQu7ClAbEpUUpNNzcLGxhM8DicCKyCs7mIM8175J8VterPmml3z1RyCcoq5iUVIBZvsx4ARVX0GDvGY9F76X4xaEiRkY2NzYh+c9anxwIUj9lzo/X3Qsm6e1iZWhlrsAXXFGr8HGlWMAqWRANtcNQLumHsMzEgUUBeOWPEggt8zsTEixRkfHtpTdi1cpmTtIfWhH9kERK0hN9dNLO6eeu1RRUDjHVesJPbj09FMnubYuGMUVSqdpIhwMCd+25erbdoy5Swatb0+/9YCzFOwgUc28XxetIGw8Z+IZNP6w6A+nJOPuS1T8gUIKGVRfKqdHivYQnCmVZBDmXY/vLoLNS0sgQ1nBqgCnIJhsEbSPqXyzNBibr6SggkwN5mCUaopmhei6/UUTBstfhenwVLYDNxmycUo4Sc3d+FUz7JZ8OXUUe49wgk/NXU1LCBsBZmAoM0LYEaiODMl/EbwCungLMKmJWGop4OwcSOLfZXyDF6dL7V4HpjLJoR80pHO11DaYzI1aDsShBHwWa4mLdQT5xNsImYN5bO4l7NbGjbg3END7bABHu/d5UbWhHUrPuW4BMIVjib9fn8yIt5ks5wIOpahn5zutMn0GJDTSiQw9D3P98H+goaf5LIiyrZOCjTVovVRJ/lFH85t8kIhckSZ/xqkLvG9m6nF6uUwFmtBLYqvbnn55padnJycnJycnJycnJycnJyctlr/A6tV92rnvlz6AAAAAElFTkSuQmCC"
+      ],
+      "ownerId": "1"
+    },
+    {
+      "id": "wmizjktj3",
+      "title": "DBT",
+      "description": "A data engineering tool",
+      "price": 10,
+      "images": [
+        "data:image/png;base64,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"
+      ],
+      "category": "Coding",
+      "type": "workshop",
+      "ownerId": "1",
+      "date": "2025-12-18",
+      "time": "10:30",
+      "createdAt": "2025-12-10T05:01:32.415Z"
+    }
+  ],
+  "cart": [],
+  "messages": []
+}
